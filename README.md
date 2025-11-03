@@ -35,3 +35,14 @@ This project uses a deep learning-based YOLOv5 model to automatically detect whe
 2. Run the script:
     ```bash
    python detector.py
+
+## 📸 Output
+
+- The program saves frames without helmets in the suspect directory.
+- Console logs provide real-time updates for each detected violation.
+
+## 🧩 Future Enhancements
+
+- Integrate alert system (email/SMS) for violations
+- Support live camera feed detection
+- Add helmet color classification and person tracking
